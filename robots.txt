@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://butherterb.github.io/sitemap
+Sitemap: https://butherterb.github.io/app/sitemap
+Sitemap: https://butherterb.github.io/assets/sitemap
+Sitemap: https://butherterb.github.io/css/sitemap
+Sitemap: https://butherterb.github.io/includes/sitemap
+Sitemap: https://butherterb.github.io/item/sitemap
+Sitemap: https://butherterb.github.io/src/sitemap
